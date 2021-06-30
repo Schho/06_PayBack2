@@ -11,4 +11,6 @@ try {
     echo $error_message;
     exit();
 }
+    echo "Hello World";
 
+?>
